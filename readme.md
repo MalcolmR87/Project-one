@@ -1,2 +1,2 @@
 ## About
-A lot of nothing
+Building hyperlinks towards all of the challenges resources.
