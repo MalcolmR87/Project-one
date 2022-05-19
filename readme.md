@@ -1,2 +1,4 @@
 ## About
-Building hyperlinks towards all of the challenges resources.
+Create a readme.md file.
+Create an index.html file.
+Practice building various hyperlinks.
